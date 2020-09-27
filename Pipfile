@@ -23,6 +23,8 @@ virtualenv = "==20.0.29"
 virtualenv-clone = "==0.5.4"
 virtualenvwrapper-win = "==1.2.6"
 wrapt = "==1.12.1"
+django = "*"
+djangorestframework = "*"
 
 [requires]
 python_version = "3.8"
