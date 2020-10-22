@@ -26,6 +26,9 @@ wrapt = "==1.12.1"
 django = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
+python-decouple = "*"
+dj-database-url = "*"
+dj-static = "*"
 
 [requires]
 python_version = "3.8"
