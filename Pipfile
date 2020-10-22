@@ -29,6 +29,7 @@ django-cors-headers = "*"
 python-decouple = "*"
 dj-database-url = "*"
 dj-static = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
